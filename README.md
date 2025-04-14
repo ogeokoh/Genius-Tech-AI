@@ -2,4 +2,11 @@
 
 Used bolt.new (AI web development) within stackblitz to create the webssite for Genius Tech AI. Process normally would take 2-3 weeks with traditional coding, took me 10 mins with AI. Amazing!
 
+
+# Tools
+bolt.new - AI-driven website developer. Extremely impressive, seems to work better with iterative prompts
+ChatGPT (4o) - Prompting assistance for bolt.new
+app.spline.design - Website 3d animations
+Supabase - Database
+
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/ogeokoh/Genius-Tech-AI)
